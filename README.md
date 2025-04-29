@@ -1,4 +1,4 @@
-# DataMineTurfGrass-Patholagy-Database
+# DataMineTurfGrass-Pathology-LLM (derived from Database and Interface teams)
 Clone the github repository into VS Code and then follow the steps below to setup the vector database
 
 This will take around 5GB of space on local device with Docker. 
@@ -56,6 +56,10 @@ There are some changes to bbe made to the docker Milvus Yaml
 # Possible Errors:
 
 If you got a docker error saying that the username does not match, this was resolved by making sure you make a docker account that is linked to your github. Make sure when you log in to docker you are using your username and not email. I don't know why this was the solution, but it did work.
+
+# Frontend:
+
+Will have to install Flask and Flask CORS: https://flask.palletsprojects.com/en/stable/installation/
 
 
 
