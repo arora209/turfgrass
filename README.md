@@ -1,4 +1,4 @@
-# DataMineTurfGrass-Pathology-LLM (derived from Database and Interface teams)
+# DataMineTurfGrass-Pathology-LLM (derived from Database team)
 Clone the github repository into VS Code and then follow the steps below to setup the vector database
 
 This will take around 5GB of space on local device with Docker. 
