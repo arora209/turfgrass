@@ -59,8 +59,11 @@ If you got a docker error saying that the username does not match, this was reso
 
 # Frontend:
 
-Will have to install Flask and Flask CORS: https://flask.palletsprojects.com/en/stable/installation/
+Flask installation: https://flask.palletsprojects.com/en/stable/installation/
 
+Flask-CORS installation: https://pypi.org/project/flask-cors/
+
+ngrok installation + claim own URL for local hosting: https://ngrok.com/
 
 
 
